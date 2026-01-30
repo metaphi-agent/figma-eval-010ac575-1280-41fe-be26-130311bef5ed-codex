@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "figma_file_key": "V9fFusRtr1gh5rC8dmMwVQ",
+    "page": "Pages",
+    "frames": ["page_1", "page_2"]
+  },
+  "colors": {
+    "heroBg": "#2F1893",
+    "heading": "#1E0E62",
+    "text": "rgba(21, 20, 57, 0.4)",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "DM Sans",
+    "h1": { "fontSize": 58, "lineHeight": 70, "fontWeight": 700, "letterSpacing": -1 },
+    "h2": { "fontSize": 42, "lineHeight": 52, "fontWeight": 700, "letterSpacing": -0.4 },
+    "h5": { "fontSize": 22, "lineHeight": 32, "fontWeight": 500 },
+    "label": { "fontSize": 14, "lineHeight": 26, "fontWeight": 700, "letterSpacing": 2, "textTransform": "uppercase" },
+    "body": { "fontSize": 16, "lineHeight": 26, "fontWeight": 400 },
+    "articleCallout": { "fontSize": 18, "lineHeight": 28, "fontWeight": 500 }
+  },
+  "radii": { "card": 10 },
+  "grid": { "columns": 12, "gutter": 30, "columnWidth": 70, "containerWidth": 1170 }
+}

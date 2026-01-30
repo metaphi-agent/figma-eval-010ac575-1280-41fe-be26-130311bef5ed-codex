@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+*.log
+
+# Local transcripts and caches
+transcript.jsonl
+
+# Vite
+.vite
+
+# Codex
+.codex
