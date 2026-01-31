@@ -1,0 +1,24 @@
+{
+  "figma_file_key": "V9fFusRtr1gh5rC8dmMwVQ",
+  "fonts": {
+    "primary": "DM Sans"
+  },
+  "colors": {
+    "purple": "#2F1893",
+    "heading": "#1E0E62",
+    "textStrong": "#151439",
+    "textMuted": "rgba(21, 20, 57, 0.4)",
+    "white": "#FFFFFF",
+    "pink": "#E93A7D",
+    "teal": "#25DAC4",
+    "border": "#EAEAED"
+  },
+  "radii": {
+    "card": 10,
+    "pill": 100
+  },
+  "layout": {
+    "containerMaxWidth": 1170,
+    "contentMaxWidth": 770
+  }
+}
